@@ -87,7 +87,7 @@ Contributions to this exploratory data analysis project are welcome! If you woul
 
 ## License
 
-This project is licensed under the [MIT LICENSE](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
 
 
 ## Acknowledgements
