@@ -42,7 +42,7 @@ Throughout the development of this project, several Python skills were applied, 
     - Applied pandas functions for handling missing data and outliers.
 
 - **Statistical Analysis:**
-    - Utilized statistical methods from libraries like NumPy and SciPy.
+    - Utilized statistical methods from libraries like NumPy.
 
 - **Data Visualization:**
     - Created visualizations using matplotlib and seaborn.
@@ -87,7 +87,8 @@ Contributions to this exploratory data analysis project are welcome! If you woul
 
 ## License
 
-This project is licensed under the [choose a suitable license for your project]. Please see the [LICENSE](LICENSE) file for more details.
+This project is licensed under the [MIT LICENSE](LICENSE).
+
 
 ## Acknowledgements
 
@@ -98,5 +99,8 @@ We would like to express our gratitude to [mention individuals, organizations, o
 If you have any questions, suggestions, or feedback regarding this project, please feel free to contact me at Berlana.d@gmail.com. We appreciate your input and are open to collaboration opportunities.
 
 ## References
+
 Link to notebook file: https://sharedbaxlcfrm.labs.coursera.org/notebooks/SocialMediaDataAnalysis.ipynb#
+
+
 ---
